@@ -88,7 +88,7 @@ While developing this app, I learned:
 
 ## Design Credits
 
-This design has been created by the outstanding designers of the One Week Wonders agency. Show them some love by checking their other designs.
+This design has been created by the outstanding designers of the One Week Wonders agency. Show them some love by checking their other designs. Check out the Design [Here](/Figma-Metaversus-Image.png)
 
 ## Learn More
 
